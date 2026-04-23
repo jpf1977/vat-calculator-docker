@@ -1,11 +1,13 @@
 .field{
   width: 300px;
   padding-bottom: 20px;
+  font-size: x-large;
 }
 
 .colour-border{
   border: 3px solid green;
   padding: 10px;
+  font-style: italic;
 }
 
 .header{
@@ -14,5 +16,6 @@
 
 body{
   padding: 10px;
-  background-color: antiquewhite;
+  background-color: greenyellow;
+  font: bold;
 }
