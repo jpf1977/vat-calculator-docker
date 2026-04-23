@@ -5,17 +5,21 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid maroon;
   padding: 10px;
-  font-style: italic;
+  font-style: bold;
 }
 
 .header{
   padding: 10px;
+  font-size: xx-large;
+  font-weight: bolder;
 }
 
 body{
   padding: 10px;
-  background-color: greenyellow;
+  background-color: solid salmon;
   font: bold;
+  font-weight: bold;
+
 }
