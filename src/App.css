@@ -5,7 +5,7 @@
 }
 
 .colour-border{
-  border: 3px solid maroon;
+  border: 3px solid greenyellow;
   padding: 10px;
   font-style: bold;
 }
@@ -18,7 +18,7 @@
 
 body{
   padding: 10px;
-  background-color: solid salmon;
+  background-color: solid green;
   font: bold;
   font-weight: bold;
 
